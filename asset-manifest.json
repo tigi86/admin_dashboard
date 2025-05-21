@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.16ebcb54.css",
+    "main.js": "/static/js/main.ca215a0a.js",
+    "static/media/tigi.jpg": "/static/media/tigi.4acbb1477d7a705f25a9.jpg",
+    "index.html": "/index.html",
+    "main.16ebcb54.css.map": "/static/css/main.16ebcb54.css.map",
+    "main.ca215a0a.js.map": "/static/js/main.ca215a0a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16ebcb54.css",
+    "static/js/main.ca215a0a.js"
+  ]
+}
